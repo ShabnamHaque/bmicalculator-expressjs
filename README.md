@@ -1,4 +1,5 @@
 # bmicalculator-expressjs
+Click here to access the page https://shabnamhaque.github.io/bmicalculator-expressjs/
 A BMI calculator website
 
 Step-1 Installing Packages
